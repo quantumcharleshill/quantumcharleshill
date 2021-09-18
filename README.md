@@ -1,6 +1,6 @@
 Hi, I’m @quantumcharleshill
 
-I’m interested in things geeky, especially quantum computing. My current favourite language is Rust. When I'm not working I love to cycle touring, play chess and  orienteering. 
+I’m interested in things geeky, especially quantum computing. My current favourite language is Rust. When I'm not working I love to go cycle touring, play chess and  orienteering. 
 
 <!---
 quantumcharleshill/quantumcharleshill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
