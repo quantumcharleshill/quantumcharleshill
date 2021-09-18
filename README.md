@@ -1,6 +1,6 @@
-- Hi, I’m @quantumcharleshill
-- I’m interested in things geeky, especially quantum computing.
-- You can get in touch with me, quantumcharleshill@gmail.com.
+Hi, I’m @quantumcharleshill
+I’m interested in things geeky, especially quantum computing.
+You can get in touch with me, quantumcharleshill@gmail.com.
 
 <!---
 quantumcharleshill/quantumcharleshill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
